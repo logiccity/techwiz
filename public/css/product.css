@@ -1,0 +1,62 @@
+/* cards */
+.card{
+	width: 100%;
+}
+.card-img-top{
+	height: 250px;
+	width: 100%;
+	padding: 20px;
+}
+.heading11{
+	color: #00A497;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+}
+.heading12{
+	color: black;
+}
+.label {
+	position: absolute;
+	top: 15px;
+	left: 25px;
+	color: #00A497;
+	padding: 5px;
+	border-radius: 5px;
+	font-size: 14px;
+}
+.label1 {
+	position: absolute;
+	top: 15px;
+	left: 25px;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+	font-size: 14px;
+}
+.cd{
+	color: black;
+}
+.review{
+	color: #3d3d3d;
+}
+.fa-star {
+	color: #ffc107;
+}
+.rating{
+	text-align: left;
+}
+.price {
+	color: #28a745;
+	font-weight: bold;
+	font-size: 18px;
+}
+.wishlist {
+	position: absolute;
+	top: 15px;
+	right: 25px;
+	border-radius: 50%;
+	padding: 5px;
+	color: #dc3545;
+	font-size: 18px;
+}
+
